@@ -13,7 +13,6 @@ import java.util.Scanner;
 public class InputTest {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
-        //Scanner in = new Scanner(Paths.get("myfile.txt"));
 
         //get first input
         System.out.println("what is your name?");
